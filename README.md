@@ -2,7 +2,7 @@
 
 ## I'm Gokul, Full-Stack Developer working in India.
 
-- 🔭 I’m currently working as **Technology lead @ Elait IT Technologies**
+- 🔭 I’m currently working as **Senior Software Engineer @ Wipro**
 - 🌱 I’m currently learning **ML/AI & Quantum Computing**
 - 👯 I’m looking to collaborate on **Python** & **JavaScript** Projects
 - 🤔 I’m looking for help with **ML Concepts** 
