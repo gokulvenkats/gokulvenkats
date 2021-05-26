@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with **ML Concepts** 
 - 💬 Ask me about **design**, **development**, **programming** and **branding**
 - 📫 How to reach me: [@twitter/gokulvenkats](https://twitter.com/gokulvenkats)
-- 😄 Pronouns: It's **him**!
+- 😄 Pronouns: It's **he/him**!
 - ⚡ Fun fact: I'm a huge fan of **Dragon Ball** 💥💨 **kamehameha**
 
 #### Know More
