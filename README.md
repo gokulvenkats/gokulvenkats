@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **Python** & **JavaScript** Projects
 - 🤔 I’m looking for help with **ML Concepts** 
 - 💬 Ask me about **design**, **development**, **programming** and **branding**
-- 📫 How to reach me: [@twitter/gokulvenkats](https://twitter.com/gokulvenkats)
+- 📫 How to reach me: [@twitter/gokulvenkats](https://twitter.com/gokulvenkats) && [@linkedIn/gokulvenkats](https://www.linkedin.com/in/gokulvenkats)
 - 😄 Pronouns: It's **he/him**!
 - ⚡ Fun fact: I'm a huge fan of **Dragon Ball** 💥💨 **kamehameha**
 
