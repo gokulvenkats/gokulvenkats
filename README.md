@@ -2,7 +2,7 @@
 
 ## I'm Gokul, Full-Stack Developer working in India.
 
-- 🔭 I’m currently working as **Senior Software Engineer @ Wipro**
+- 🔭 I’m currently working as **Software Engineer @ Cisco**
 - 🌱 I’m currently learning **ML/AI & Quantum Computing**
 - 👯 I’m looking to collaborate on **Python** & **JavaScript** Projects
 - 🤔 I’m looking for help with **ML Concepts** 
@@ -18,7 +18,7 @@ class Gokul:
     def __init__(self):
         self.username = 'gokulvenkats'
         self.name = 'Gokul Venkatesan'
-        self.web = 'https://gokulvenkat.xyz'
+        self.web = 'https://gokulvenkat.site'
         self.twitter = '@gokulvenkats'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'ReactJS', 'Angular 2', 'TailWind'],
